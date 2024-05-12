@@ -2,13 +2,13 @@
   "swagger": "2.0",
   "info": {
     "title": "Library API",
-    "description": "CSE 341 Project 2 - Library API",
+    "description": "CSE 341 Project 2 - Library API by Lucas Araujo",
     "version": "1.0.0"
   },
-  "host": "localhost:6060",
+  "host": "cse-341-project2-21jp.onrender.com",
   "basePath": "/",
   "schemes": [
-    "http"
+    "https"
   ],
   "paths": {
     "/api-docs": {
